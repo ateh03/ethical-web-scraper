@@ -7,7 +7,9 @@ Ethical webscraper that is easy to use. Only modify the variables at the bottom 
 * No setup required.
  
 ## Running
-MAC OS INSTRUCTIONS:
+MAC OS INSTRUCTIONS: <br>
 Open a terminal inside the directory
 
 run  ```python3 web_scraper.py```<br>
+
+##
