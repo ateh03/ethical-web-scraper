@@ -25,9 +25,9 @@ run  ```python3 web_scraper.py```<br>
 ## Configuration
 At the bottom of the file, update the annotated variables:
 
-BASE_URL = "https://example.com"
-TARGET_KEYWORDS = ["example", "sample"]
-OUTPUT_FILE = "output.csv"
+- BASE_URL = "https://example.com"
+- TARGET_KEYWORDS = ["example", "sample"]
+- OUTPUT_FILE = "output.csv"
 
 These can be customized to match your own selector logic.
 
